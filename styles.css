@@ -19,10 +19,16 @@ body {
 	font-size:16px;
 }
 
-main, footer {
+main {
 	margin: 0 auto;
 	background-color:#d5eae8;
 	width:60%;
+}
+
+@media (min-width: 600px) {
+	main {
+		width: 50%;
+	}
 }
 	
 h1 {

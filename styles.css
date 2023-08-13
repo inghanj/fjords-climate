@@ -45,7 +45,6 @@ h1 {
 
 p {
 	margin: auto;
-	padding-left:40px;
 }
 
 div {
@@ -87,4 +86,13 @@ figure {
 	width:50%;
 	padding:2px;
 	margin: auto;
+}
+
+.center-align {
+	margin: auto;
+	text-align: center;
+}
+
+.left-align {
+	text-align:left;
 }
